@@ -1,0 +1,3 @@
+Objeto mais distante: Telemovel 20000.00 milimetros.
+Media de distancia entre os objetos: 10000.00 milimetros.
+Objeto mais proximo: Computador 10000.00 milimetros.
