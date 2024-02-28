@@ -1,0 +1,20 @@
+﻿  aula4.c
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\Aula4.h(19,2): warning C4091: 'typedef ': ignorado à esquerda de 'Alunos' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'aula4.c')
+  
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\aula4.c(8,22): warning C4013: 'malloc' indefinido; assumindo extern retornando int
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\aula4.c(8,47): warning C4312: 'conversão de tipo': conversão de 'int' para 'char *' de tamanho maior
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\aula4.c(13,41): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\aula4.c(13,57): warning C4312: 'conversão de tipo': conversão de 'int' para 'char *' de tamanho maior
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\aula4.c(14,2): warning C4013: 'strcpy' indefinido; assumindo extern retornando int
+  funcoes4.c
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\Aula4.h(19,2): warning C4091: 'typedef ': ignorado à esquerda de 'Alunos' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'funcoes4.c')
+  
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\funcoes4.c(6,16): warning C4013: 'malloc' indefinido; assumindo extern retornando int
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\funcoes4.c(6,37): warning C4312: 'conversão de tipo': conversão de 'int' para 'Aluno *' de tamanho maior
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\funcoes4.c(8,28): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\funcoes4.c(8,56): warning C4312: 'conversão de tipo': conversão de 'int' para 'char *' de tamanho maior
+C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\Aula4\funcoes4.c(9,2): warning C4013: 'strcpy' indefinido; assumindo extern retornando int
+  Gerando Código...
+  Aula4.vcxproj -> C:\Users\diogo\Documents\GitHub\EDA\Aula4\Aula4\x64\Debug\Aula4.exe
